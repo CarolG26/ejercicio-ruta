@@ -1,0 +1,16 @@
+Numero;Edad;Sexo;Viajes;Jornada;Mes
+1;25;M;1;Mañana ;Enero
+2;28;F;2;Tarde ;Febrero
+3;30;F;1;Noche;Marzo
+4;27;M;3;Mañana ;Abril
+5;25;F;5;Tarde ;Enero 
+6;26;M;1;Noche;Febrero
+7;30;F;2;Mañana ;Marzo
+8;29;M;3;Tarde ;Abril
+9;26;M;1;Noche;Enero
+10;25;F;1;Mañana ;Febrero
+11;27;M;4;Noche;Marzo
+12;28;F;2;Mañana ;Abril
+13;29;M;5;Tarde ;Enero
+14;30;M;3;Noche;Febrero
+15;26;F;1;Mañana ;Marzo
